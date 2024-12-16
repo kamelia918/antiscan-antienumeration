@@ -8,3 +8,14 @@ code liyban mlih mais lzm nsagmoh , kiydetecti scan , ichd ip oy93d iralentiha b
 
 ## Sans Netsh
 t9dr tpingi oga3 les ports litscanihom sC sV sS -p 1-1000...   irj3lk klch filtered
+
+
+## Sans Netsh V2 
+ki3awdt siyit Sans netsh l9ito ymchi 5trat o 5atrat mymchich , capable nkon testito mor ta3 avec netsh osauvegarda les rules so drt hada msagm 3la sansnetsh nrml
+
+
+
+## Sans NetshV3
+
+hada ymchi bien , irj3lk scan filtered wy5alik tpingi o laffichage ta3i chaba 3la les versions l9dm ...  , kyn prblm wahd cest que mindak raho yablokili adresse mn3rfhach capable t3 routeur wla jcp , so lzm nsgmo code bch myblokich hado les adresses ; hahi image 3la sansnetshV3
+
