@@ -18,5 +18,9 @@ ki3awdt siyit Sans netsh l9ito ymchi 5trat o 5atrat mymchich , capable nkon test
 ## Sans NetshV3
 
 hada ymchi bien , irj3lk scan filtered wy5alik tpingi o laffichage ta3o chaba 3la les versions l9dm ...  , kyn prblm wahd cest que mindak raho yablokili adresse mn3rfhach capable t3 routeur wla jcp , so lzm nsgmo code bch myblokich hado les adresses ; hahi image 3la sansnetshV3
+(update) f9t bali lokan tlanci serveur fkch port kima 7000  , t9dr taccedilo blocalhost mais lokan tlanci code V3 , mtwalich t9dr taccedilo blocalhost , dok hada prblm lzm ytsgm tan
+haho code bch tlanci serveur f 7000
+
+powershell -Command "Start-Process -NoNewWindow -FilePath 'cmd' -ArgumentList '/c python -m http.server 7000'"
 
 ![Screenshot 2024-12-16 205709](https://github.com/user-attachments/assets/45516dc4-b2ba-40f7-9832-c41252ba4380)
