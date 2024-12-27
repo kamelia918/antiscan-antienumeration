@@ -25,3 +25,12 @@ haho code bch tlanci serveur f 7000
 powershell -Command "Start-Process -NoNewWindow -FilePath 'cmd' -ArgumentList '/c python -m http.server 7000'"
 
 ![Screenshot 2024-12-16 205709](https://github.com/user-attachments/assets/45516dc4-b2ba-40f7-9832-c41252ba4380)
+
+
+
+
+hello hello xd,  
+rani zdt dossier interfaceV1 , nrmlment ymchi klch (t9dr dir internet , t9dr td5l lalport litftho kima 7000 ..., my9droch yaccidiwlo mn ghir ida nta t5alihom ...)  rayhin t3rfo ga3 hado kitsiyiw app , tl3o les deux fichiers limada5l dossier + mtbdlolhomch asm bch sur ymchi XD 
+hahi image t3 interface m3a exemple t3 adresse maditlha port o adresse maditlha port whdo5r wmchaw 
+
+![image](https://github.com/user-attachments/assets/fb2beb4d-cd0a-42e5-a361-bfe018326f95)
