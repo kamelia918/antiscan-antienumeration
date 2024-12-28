@@ -35,3 +35,8 @@ rani zdt dossier interfaceV1 , nrmlment ymchi klch (t9dr dir internet , t9dr td5
 hahi image t3 interface m3a exemple t3 adresse maditlha port o adresse maditlha port whdo5r wmchaw , dok wch 93d, nsiyiw nl9aw kch commande lit9dr tscanni wajib reponse wnzido nchofo les types lina9sina, otani nchofo ida n5aliw affichage ta3 paquet wla nbadloh xd
 
 ![image](https://github.com/user-attachments/assets/fb2beb4d-cd0a-42e5-a361-bfe018326f95)
+
+
+
+## InterfaceV2
+ameliorit InterfaceV1  , raho idetecti les scans tcp udp sctp ssdp , fal V1 kan ghir tcp   ;; fhadi verion t9dr taccedi lalport lithalo ip:port    mais mawalatch kyn internet fhadi version :)) 
